@@ -35,7 +35,7 @@ export default defineConfig({
   use: {
 
     browserName: 'chromium',
-    headless:false,
+    
     /* Base URL to use in actions like `await page.goto('/')`. */
      baseURL: 'https://rahulshettyacademy.com/',
 
